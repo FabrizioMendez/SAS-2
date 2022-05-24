@@ -8,6 +8,10 @@
   font-family: verdana;
   font-size: 20px; }
 
+.texto {
+  background-color: #a5bce0;
+  width: center; }
+
 .header-footer, header, footer {
   background-color: #eca50a;
   width: 100%;
